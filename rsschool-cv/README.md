@@ -1,1 +1,1 @@
-https://satfaat.github.io/rsschool-cv/cv
+[my cv](https://satfaat.github.io/rsschool-cv/cv)
